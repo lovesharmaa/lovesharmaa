@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince kumar</h1>
+<h1 align="center">Hi 👋, I'm love sharma</h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
